@@ -76,7 +76,7 @@
 
     <li class="nav-item">
       <a href="http://127.0.0.1:8000/admin/replacement" class="nav-link">
-        <i class="far fa-times-circle"></i>
+        <i class="fas fa-sync"></i>
         <p>
           Replacement
           <span class="right badge badge-danger">New</span>
@@ -86,7 +86,7 @@
 
     <li class="nav-item">
       <a href="http://127.0.0.1:8000/laporan/replacement" class="nav-link">
-        <i class="far fa-times-circle"></i>
+        <i class="fas fa-print"></i>
         <p>
           Replacement PDF
           <span class="right badge badge-danger">New</span>
