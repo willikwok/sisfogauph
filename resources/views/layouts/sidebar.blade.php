@@ -64,11 +64,31 @@
         </a>
       </li>
 
-      <li class="nav-item">
+    <li class="nav-item">
       <a href="http://127.0.0.1:8000/admin/missing-item-status" class="nav-link">
         <i class="far fa-times-circle"></i>
         <p>
           Missing Item Status
+          <span class="right badge badge-danger">New</span>
+        </p>
+      </a>
+    </li>
+
+    <li class="nav-item">
+      <a href="http://127.0.0.1:8000/admin/replacement" class="nav-link">
+        <i class="far fa-times-circle"></i>
+        <p>
+          Replacement
+          <span class="right badge badge-danger">New</span>
+        </p>
+      </a>
+    </li>
+
+    <li class="nav-item">
+      <a href="http://127.0.0.1:8000/laporan/replacement" class="nav-link">
+        <i class="far fa-times-circle"></i>
+        <p>
+          Replacement PDF
           <span class="right badge badge-danger">New</span>
         </p>
       </a>
